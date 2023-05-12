@@ -1,0 +1,9 @@
+### Criando Projeto via linha de comando
+flutter create --project-name=nome_do_projeto --org br.dev.jailtonmendes --platforms android,ios -a kotlin -i swift ./nome_do_projeto
+
+### Customizar VisualCode - Academia do flutter
+Template: https://vscode.dev/profile/github/019fb49d5fa901ccd010fe515cc05abc
+https://www.youtube.com/watch?v=SD6Tv5GbkTs
+
+
+
